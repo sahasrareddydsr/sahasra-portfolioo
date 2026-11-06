@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<rect x="18" y="18" width="124" height="124" rx="28" fill="#fff0f3" stroke="#1B1740" stroke-width="7"/>
+<path d="M34 55h92v50H77l-22 18v-18H34z" fill="#FF4F9A" stroke="#1B1740" stroke-width="5" stroke-linejoin="round"/>
+<text x="80" y="89" font-family="Arial,sans-serif" font-size="31" font-weight="bold" text-anchor="middle" fill="#1B1740">¡Hola!</text>
+<path d="M112 29l7 13 14 2-10 10 2 14-13-7-13 7 2-14-10-10 14-2z" fill="#FFD84D" stroke="#1B1740" stroke-width="3"/>
+</svg>
